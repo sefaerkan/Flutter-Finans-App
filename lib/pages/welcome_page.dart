@@ -18,6 +18,7 @@ class WelcomePage extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+              //Sefa
               Center(
                 child: Container(
                   width: 310,
